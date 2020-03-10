@@ -1,7 +1,7 @@
 # Git Tutorial - workout
-git init
-git status
-git log
+git init<br />
+git status<br />
+git log<br />
 git log --oneline
 cat <filename>
 touch <filename>
